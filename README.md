@@ -13,8 +13,11 @@ TGIM (Ramco Systems, Adyar, Chennai, INDIA)
 1. Aravind Putrevu | Developer Advocate, Elastic
 
 Twitter - https://twitter.com/aravindputrevu
+
 LinkedIn - https://www.linkedin.com/in/aravindputrevu/
+
 Website - https://aravindputrevu.in/
+
 
 ## Agenda:
 
